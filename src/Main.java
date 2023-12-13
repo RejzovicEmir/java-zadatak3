@@ -22,14 +22,5 @@ public class Main {
             double rezultatDrugeFunkcije = prviBroj * drugiBroj + 1;
             System.out.println("Rezultat funkcije prviBroj * drugiBroj + 1 je: " + rezultatDrugeFunkcije);
         }
-
-
-
-
-
-
-
-
-
     }
 }
